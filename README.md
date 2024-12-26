@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://react-art-93f2e.web.app/">
-    <img src="./assets/logo.png" alt="Logo" height="80"  >
+    <img src="./public/logo.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">React-Art</h1>
 
