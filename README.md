@@ -20,14 +20,14 @@
   </p>
 </div>
 
-## Project Overview
-
-![React Art Screenshot](./public/OverView.png)
-
 This project demonstrates how to style React components using **Styled Components** and **Tailwind CSS**. It showcases a simple application with:
 
 - A `Header` component styled using **Tailwind CSS**.
 - An `AuthInputs` form demonstrating user interaction, validation, and modern styling techniques.
+
+## Project Overview
+
+![React Art Screenshot](./public/OverView.png)
 
 ## Features
 
