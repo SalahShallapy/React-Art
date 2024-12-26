@@ -1,13 +1,28 @@
-# React Art
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://react-art-93f2e.web.app/">
+    <img src="./assets/logo.png" alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">React-Art</h1>
+
+  <p align="center">
+    <a href="https://react-art-93f2e.web.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/React-Art/issues">Report Bug</a>
+  </p>
+</div>
 
 ## Project Overview
 
-![React Art Screenshot](./public/OverView.png)  
-_Screenshot of the game interface._
+![React Art Screenshot](./public/OverView.png)
 
 This project demonstrates how to style React components using **Styled Components** and **Tailwind CSS**. It showcases a simple application with:
 
@@ -29,6 +44,12 @@ This project demonstrates how to style React components using **Styled Component
 3. **Styling Techniques**:
    - **Tailwind CSS**: For rapid and utility-first styling.
    - **Styled Components**: For scoped, component-specific styling.
+
+## Learning Objectives
+
+- Understand utility-based styling with Tailwind CSS.
+- Learn scoped component styling with Styled Components.
+- Practice structuring reusable and maintainable React components.
 
 ## File Structure
 
@@ -87,12 +108,6 @@ To get started with the project locally:
    ```bash
    npm run dev
    ```
-
-## Learning Objectives
-
-- Understand utility-based styling with Tailwind CSS.
-- Learn scoped component styling with Styled Components.
-- Practice structuring reusable and maintainable React components.
 
 ## Contributing
 
